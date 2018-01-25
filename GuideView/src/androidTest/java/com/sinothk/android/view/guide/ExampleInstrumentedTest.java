@@ -1,4 +1,4 @@
-package com.sinothk.android.view.gide;
+package com.sinothk.android.view.guide;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

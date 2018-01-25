@@ -1,9 +1,14 @@
-package com.sinothk.android.view.gide;
+package com.sinothk.android.view.guide;
 
-import android.app.Fragment;
-import android.util.Log;
+import android.support.v4.app.Fragment;
 
-public class ListenerFragment extends Fragment {
+/**
+ * Created by hubert
+ * <p>
+ * Created on 2017/9/13.
+ */
+
+public class V4ListenerFragment extends Fragment {
 
     FragmentLifecycle mFragmentLifecycle;
 

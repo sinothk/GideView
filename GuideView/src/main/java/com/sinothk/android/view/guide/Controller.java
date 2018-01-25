@@ -1,4 +1,4 @@
-package com.sinothk.android.view.gide;
+package com.sinothk.android.view.guide;
 
 import android.app.Activity;
 import android.app.Fragment;

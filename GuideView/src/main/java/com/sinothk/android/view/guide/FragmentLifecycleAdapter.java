@@ -1,4 +1,4 @@
-package com.sinothk.android.view.gide;
+package com.sinothk.android.view.guide;
 
 public abstract class FragmentLifecycleAdapter implements FragmentLifecycle {
     @Override

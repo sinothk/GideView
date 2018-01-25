@@ -1,7 +1,6 @@
-package com.sinothk.android.view.gide;
+package com.sinothk.android.view.guide;
 
 import android.graphics.RectF;
-import android.util.Log;
 import android.view.View;
 
 /**

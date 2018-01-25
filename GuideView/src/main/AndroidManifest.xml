@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
 
-    package="com.sinothk.android.view.gide">
+    package="com.sinothk.android.view.guide">
 
     <application android:allowBackup="true" android:label="@string/app_name"
         android:supportsRtl="true">
