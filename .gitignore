@@ -1,0 +1,6 @@
+GuideView/build/
+app/build/
+.idea/
+.gradle/
+*.iml
+build/
