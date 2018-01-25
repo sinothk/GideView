@@ -5,9 +5,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.sinothk.android.view.gide.Controller;
-import com.sinothk.android.view.gide.HighLight;
-import com.sinothk.android.view.gide.NewbieGuide;
+import com.sinothk.android.view.guide.Controller;
+import com.sinothk.android.view.guide.HighLight;
+import com.sinothk.android.view.guide.NewbieGuide;
 
 
 public class MainActivity extends AppCompatActivity {

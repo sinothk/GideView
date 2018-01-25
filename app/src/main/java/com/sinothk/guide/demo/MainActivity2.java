@@ -4,10 +4,10 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
-import com.sinothk.android.view.gide.Controller;
-import com.sinothk.android.view.gide.HighLight;
-import com.sinothk.android.view.gide.NewbieGuide;
-import com.sinothk.android.view.gide.OnGuideChangedListener;
+import com.sinothk.android.view.guide.Controller;
+import com.sinothk.android.view.guide.HighLight;
+import com.sinothk.android.view.guide.NewbieGuide;
+import com.sinothk.android.view.guide.OnGuideChangedListener;
 
 // 来自：https://github.com/huburt-Hu/NewbieGuide
 public class MainActivity2 extends AppCompatActivity {
