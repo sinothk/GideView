@@ -4,10 +4,11 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Button;
 
-import com.app.hubert.library.Controller;
-import com.app.hubert.library.HighLight;
-import com.app.hubert.library.NewbieGuide;
-import com.app.hubert.library.OnGuideChangedListener;
+import com.sinothk.android.view.gide.Controller;
+import com.sinothk.android.view.gide.HighLight;
+import com.sinothk.android.view.gide.NewbieGuide;
+import com.sinothk.android.view.gide.OnGuideChangedListener;
+
 // 来自：https://github.com/huburt-Hu/NewbieGuide
 public class MainActivity2 extends AppCompatActivity {
 
@@ -48,7 +49,7 @@ public class MainActivity2 extends AppCompatActivity {
     private void show2() {
         Button button2 = (Button) this.findViewById(R.id.button2);
 
-        Controller controller2 =  NewbieGuide.with(this)//传入activity
+        Controller controller2 = NewbieGuide.with(this)//传入activity
                 .setLabel("guide2")//设置引导层标示，用于区分不同引导层，必传！否则报错
                 .addHighLight(button2, HighLight.Type.RECTANGLE)//添加需要高亮的view
                 .setEveryWhereCancelable(false)//设置点击任何区域消失，默认为true

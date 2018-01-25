@@ -1,15 +1,14 @@
 package com.sinothk.guide.demo;
 
-import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-import com.app.hubert.library.Controller;
-import com.app.hubert.library.HighLight;
-import com.app.hubert.library.NewbieGuide;
-import com.app.hubert.library.OnGuideChangedListener;
+import com.sinothk.android.view.gide.Controller;
+import com.sinothk.android.view.gide.HighLight;
+import com.sinothk.android.view.gide.NewbieGuide;
+
 
 public class MainActivity extends AppCompatActivity {
 
